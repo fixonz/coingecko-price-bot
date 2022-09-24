@@ -1,7 +1,17 @@
 # Coingecko Price bot
 
 A Discord bot that fetches and shows token data from Coingecko.
+Open in Autocode
+================
 
+To add an Open in Autocode button to your GitHub repository,
+simply copy and paste the following code anywhere into README.md
+
+[<img  data-src="https://deploy.stdlib.com/static/images/deploy.svg" width="192">](https://open.autocode.com/)
+
+Enjoy!
+  - Standard Library Team
+  - 
 ## Quickstart
 
 <a href="https://heroku.com/deploy?template=https://github.com/imdipul/coingecko-price-bot">
